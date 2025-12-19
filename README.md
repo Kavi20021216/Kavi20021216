@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaveetha Randili</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+<p align="center">
+  <img src="https://www.bing.com/images/search?view=detailV2&ccid=Afy%2fR%2bJs&id=789C5A71D8884F41727143651EB52EC2F18C35E2&thid=OIP.Afy_R-Jsj4tyO2uQsiAHagHaC8&mediaurl=https%3a%2f%2fmiro.medium.com%2fv2%2fresize%3afit%3a1024%2f0*ALNL96YFdGdzWZVm.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.01fcbf47e26c8f8b723b6b90b220076a%3frik%3d4jWM8cIutR5lQw%26pid%3dImgRaw%26r%3d0&exph=408&expw=1024&q=full+stack+developer+image&FORM=IRPRST&ck=5FD47746010B2A2EEF9214F2D1EA7724&selectedIndex=65&itb=0" width="200" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavi20021216&label=Profile%20views&color=0e75b6&style=flat" alt="kavi20021216" /> </p>
 
