@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavi20021216&label=Profile%20views&color=0e75b6&style=flat" alt="kavi20021216" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavi20021216&label=Profile%20views&color=0e75b6&style=flat" alt="kavi20021216" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development with MongoDB, Express.js, React.js and Node.js**
 
